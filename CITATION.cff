@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this research code, please cite the repository."
+title: "S&P 500 Variance Risk Premium and Synthetic Gamma Scalping"
+type: software
+authors:
+  - family-names: Shah
+    given-names: Bhavya
+repository-code: "https://github.com/Bhavya-project1/spx-variance-risk-premium-research"
+abstract: >-
+  Empirical research comparing HAR, GARCH(1,1), and GJR-GARCH(1,1)
+  forecasts for S&P 500 realised variance and a VIX-based variance risk
+  premium proxy. The notebook includes out-of-sample forecast evaluation,
+  statistical robustness procedures, and a synthetic Black-Scholes
+  delta-hedged straddle and E-mini futures hedging simulation. Synthetic
+  option results are modelling experiments and are not historical
+  executable-options performance.
+keywords:
+  - quantitative finance
+  - variance risk premium
+  - volatility forecasting
+  - HAR
+  - GARCH
+  - GJR-GARCH
+  - options
+  - delta hedging
+  - gamma scalping
+  - S&P 500
